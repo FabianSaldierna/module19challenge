@@ -20,10 +20,12 @@ This project solves the challenge for Module 19 with Cypress. It contains a "com
 
 ## Images
 The result of the component test:
+
   ![image](https://github.com/user-attachments/assets/d5740962-eb80-4313-b96b-2d984edf5a31)
 
 
 The result of the E2E test:
+
   ![image](https://github.com/user-attachments/assets/59c6909c-3f48-4760-95c4-3c04c6177854)
 
 
